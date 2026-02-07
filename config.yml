@@ -1,0 +1,19 @@
+🚀 How to Run the Project
+1. Create a project on Supabase
+2. Open the SQL Editor
+3. Run scripts in this order:
+   - `schema.sql`
+   - `roles_and_privileges.sql`
+   - `rls_policies.sql`
+   - `test_queries.sql`
+
+---
+
+✅ Outcome
+This implementation ensures that users can access only the data permitted by their role, maintaining confidentiality, integrity, and security of academic records.
+
+---
+
+📖 Author
+Nilesh Patni
+
